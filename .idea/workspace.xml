@@ -1,0 +1,86 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="63400a45-21ce-4918-b7f7-5b003b9f5cd7" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Figures.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Figures/Circle.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Figures/Figure.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Figures/Hexagon.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Figures/Oval.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Figures/Pentagon.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Figures/Quadrangles/ConvexQuadrilateral.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Figures/Quadrangles/Parallelogram.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Figures/Quadrangles/Quadrangle.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Figures/Quadrangles/Rectangle.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Figures/Quadrangles/Rhombus.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Figures/Quadrangles/Square.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Figures/Quadrangles/Trapeze.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Figures/Triangles/EquilateralTriangle.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Figures/Triangles/IsoscelesTriangle.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Figures/Triangles/RightTriangle.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Figures/Triangles/Triangle.java" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="ProjectId" id="2FcGqWqvMGlyimCdDsFIrJdHGBz" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
+    "app.teamhub.trackedBranches": "",
+    "project.structure.last.edited": "Modules",
+    "project.structure.proportion": "0.0",
+    "project.structure.side.proportion": "0.0"
+  }
+}]]></component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="63400a45-21ce-4918-b7f7-5b003b9f5cd7" name="Changes" comment="" />
+      <created>1664784152540</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1664784152540</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+</project>
